@@ -68,8 +68,8 @@ This repo mainly focus on the image-driven talking head generation task, but any
 2. <span id="22002">[TPSM][Thin-Plate Spline Motion Model for Image Animation](https://arxiv.org/abs/2203.14367), `CVPR 2022`. [[Code](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model)]
 3. <span id="22003">[StyleHEAT][StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN](https://arxiv.org/pdf/2203.04036.pdf), `ECCV 2022`. [[Code](https://github.com/FeiiYin/StyleHEAT/)], [[Project](https://feiiyin.github.io/StyleHEAT/)]
 4. <span id="22004">[MegaPortraits][MegaPortraits: One-shot Megapixel Neural Head Avatars](https://arxiv.org/abs/2207.07621), `ACM MM 2022`. [[Project](https://samsunglabs.github.io/MegaPortraits/)]
-
 5. <span id="22005">[DAM][Structure-Aware Motion Transfer with Deformable Anchor Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Structure-Aware_Motion_Transfer_With_Deformable_Anchor_Model_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/JialeTao/DAM)]
+6. <span id="22006">[LIA][Latent Image Animator: Learning to Animate Images via Latent Space Navigation](https://openreview.net/pdf?id=7r6kDq0mK_), `ICLR 2022`. [[Code](https://github.com/wyhsirius/LIA)]
 
 ---
 
@@ -130,13 +130,15 @@ This repo mainly focus on the image-driven talking head generation task, but any
 
 1. <span id="n21001">[DFA-NeRF] [DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering](https://arxiv.org/pdf/2201.00791v1.pdf), `arxiv, 2021`.
 2. <span id="n21002">[NerFACE] [NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://arxiv.org/pdf/2012.03065), `CVPR 2021 Oral`. [[Code](https://github.com/gafniguy/4D-Facial-Avatars)], [[Project](https://gafniguy.github.io/4D-Facial-Avatars/)]
+3. <span id="n22001">[AD-NeRF] [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf), `ICCV 2021`. [[Code](https://github.com/YudongGuo/AD-NeRF)]
+
 
 ### 2022
 
-1. <span id="n22001">[SSP-NeRFF] [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `arxiv, 2022`.
-2. <span id="n22002">[HeadNeRF] [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Grassal_Neural_Head_Avatars_From_Monocular_RGB_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/CrisHY1995/headnerf)], [[Project](https://hy1995.top/HeadNeRF-Project/)]
-3. <span id="n22003">[IMavatar] [I M Avatar: Implicit Morphable Head Avatars from Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://ait.ethz.ch/projects/2022/IMavatar/)]
-4. <span id="n22004">[ROME] [Realistic One-shot Mesh-based Head Avatars](https://arxiv.org/pdf/2206.08343.pdf), `ECCV 2022`.
+1. <span id="n22002">[HeadNeRF] [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Grassal_Neural_Head_Avatars_From_Monocular_RGB_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://github.com/CrisHY1995/headnerf)], [[Project](https://hy1995.top/HeadNeRF-Project/)]
+2. <span id="n22003">[IMavatar] [I M Avatar: Implicit Morphable Head Avatars from Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_I_M_Avatar_Implicit_Morphable_Head_Avatars_From_Videos_CVPR_2022_paper.pdf), `CVPR 2022`. [[Code](https://ait.ethz.ch/projects/2022/IMavatar/)]
+3. <span id="n22004">[ROME] [Realistic One-shot Mesh-based Head Avatars](https://arxiv.org/pdf/2206.08343.pdf), `ECCV 2022`.
+4. <span id="n22001">[SSP-NeRF] [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://arxiv.org/pdf/2201.07786.pdf), `ECCV 2022 Oral`. [[Code](https://github.com/alvinliu0/SSP-NeRF)]
 
 ---
 
